@@ -1,0 +1,11 @@
+:root {
+	font-family: Roboto, sans-serif;
+	font-size: 0.875rem;
+	color: rgb(255, 255, 255);
+	background-color: #27272A;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
